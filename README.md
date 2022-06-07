@@ -48,14 +48,20 @@ Optionally, you can include script in your application's HTML:
 <script src="https://sdk.xcash.com/js"></script>
 ```
 
+<br />
+
 ## Initializing
 To start the SDK, you need to assign your `public_key` along with some `options`.
 
 ... TODO
 
+<br />
+
 ## Support
 
 If you require technical support, please contact our support team at [developers.esattodigital.com](https://developers.esattodigital.com)
+
+<br />
 
 ## License
 
